@@ -46,10 +46,6 @@ a{
     border-radius: 10px;
   }
   
-  /* Handle on hover */
-  ::-webkit-scrollbar-thumb:hover {
-  }
-
 
 /* Owl Cursoul */
 .WhitePointServiceCenter .owl-carousel .owl-dots .owl-dot.active span {
@@ -80,7 +76,7 @@ nav ul {
 }
 
 .carousel-inner{
-    max-height: 690px;
+    max-height: 620px;
 }
 /* Carsoul */
 .carousel-item {
